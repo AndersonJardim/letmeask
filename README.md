@@ -68,3 +68,44 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### ##############################################
+
+choco upgrade nodejs-lts
+Chocolatey v0.10.15
+
+choco upgrade yarn
+Chocolatey v0.10.15
+
+
+yarn -v
+1.22.5
+
+ node -v
+v14.17.3
+
+npm -v
+6.14.13
+
+
+PS C:\MeusCursos\curso_rocketseat\aulas\letmeask> yarn --version
+1.22.5
+PS C:\MeusCursos\curso_rocketseat\aulas\letmeask> yarn -v
+1.22.5
+PS C:\MeusCursos\curso_rocketseat\aulas\letmeask> node -v
+v14.17.3
+PS C:\MeusCursos\curso_rocketseat\aulas\letmeask> npm -v
+6.14.13
+
+
+cd C:\DocumentosAnder\Curso\curso_rocketseat_react\nlw\06-toguether\
+mkdir aulas
+yarn create react-app letmeask --templete typescript
+cd letmeask 
+yarn letmeask 
+yarn add typescript
+yarn add typescript -D (opção para developer. Não vou usar)
+yarn star 
+### (até aqui funcinou)
+
+
