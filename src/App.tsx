@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <h1> Hello World - Agora Vai! </h1>
-      <Button text={['1', '2']} />
+      <Button>Clique aqui</Button>
       <Button />
       <Button />
       <Button />
