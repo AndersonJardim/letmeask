@@ -1,5 +1,5 @@
 type ButtonProps = {
-    text?: string;
+    text?: Array<string>;  //Array<string>  ou string[]
 }
 
 export function Button(props: ButtonProps) {
